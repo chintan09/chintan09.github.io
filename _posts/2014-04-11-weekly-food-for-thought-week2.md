@@ -9,7 +9,7 @@ categories: newsletter
 
 
 ------------------------------------------------------------
-Week two already is here, this week I have found a [new home](http://goo.gl/2w9YIk) for this newsletter and hope to make it permanant place. 
+Week two already is here, this week I have found a new home, at [chintanparikh.org](http://goo.gl/2w9YIk) for this newsletter and hope to make it a permanent place. 
 
 These are the four links worth sharing this week. 
 
@@ -20,6 +20,6 @@ These are the four links worth sharing this week.
 
 [Write Code Every Day](http://goo.gl/27hcKU), advice from John Resig creator of jQuery. This is not just specific to only coding, but applied to other hobbies too.
 
-[What I Learned Negotiating with Steve Jobs](http://goo.gl/EejKVw), if you can negotitate with Steve Jobs and then you with anyone in the world.
+[What I Learned Negotiating with Steve Jobs](http://goo.gl/EejKVw), if you can negotiate with Steve Jobs and then you with anyone in the world.
 
 That's it for this week, follow me on twitter [@ChintanSParikh](https://twitter.com/chintansparikh)  for regular updates. See you next week. Please do let me know what do you think and share anything you have come across.
