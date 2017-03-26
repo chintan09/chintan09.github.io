@@ -1,3 +1,5 @@
 name: By Chintan Parikh 
 markdown: redcarpet
 pygments: true
+
+theme: jekyll-theme-minimal
