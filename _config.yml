@@ -1,4 +1,4 @@
 name: By Chintan Parikh 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-minimal
